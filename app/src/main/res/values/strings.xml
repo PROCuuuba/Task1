@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Task1</string>
+    <string name="image_view_description">Изображение</string>
+    <string name="button_take_picture">Сделать фото</string>
+    <string name="button_make_call">Совершить вызов</string>
+    <string name="button_web_page">Открыть веб-страницу</string>
+</resources>
